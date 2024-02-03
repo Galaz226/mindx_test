@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(44, 81, 110);
+    justify-self: center;
+}
+
+.container {
+
+    height: 80vh;
+    width: 50vw;
+    padding: 20px;
+    background-color: rgb(35, 35, 63);
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.navBar {
+    font-family: Space Grotesk;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    flex-direction: row;
+    align-items: flex-start;
+    display: flex;
+    color: white;
+    margin-left: 60px;
+    justify-content: space-between;
+
+}
+
+#title {
+    font-family: Space Grotesk;
+    font-size: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+#explore_tab {
+    width: 51px;
+    height: 18px;
+    top: 23px;
+    left: 218px;
+
+}
+
+#marketplace_tab {
+    width: 84px;
+    height: 18px;
+    top: 23px;
+    left: 295px;
+}
+
+#artist_tab {
+    width: 38px;
+    height: 18px;
+    top: 23px;
+    left: 413px;
+
+}
+
+#collection_tab {
+    width: 68px;
+    height: 18px;
+    top: 23px;
+    left: 481px;
+
+}
+.searchBox{
+    background-color: rgb(35, 35, 63) ;
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 20px;
+}
+
+#signin-box {
+    width: 93px;
+    height: 30px;
+    top: 18px;
+    left: 856px;
+    padding: 8px, 31px, 9px, 29px;
+    border-radius: 5px;
+    background: linear-gradient(85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #C367E6 10.94%, rgba(190, 206, 239, 0) 121.57%);
+
+}
+
+#font-large {
+    width: 400px;
+    height: 231px;
+    top: 138px;
+    left: 62px;
+    font-family: Space Grotesk;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+#font-small {
+    width: 300px;
+    height: 40px;
+    top: 381px;
+    left: 62px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+

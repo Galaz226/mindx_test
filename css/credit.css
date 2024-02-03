@@ -1,0 +1,23 @@
+.credit{
+    padding-left: 343px;
+    
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 13.02px;
+    width: 74px;
+
+}
+
+.credit1{
+    background: linear-gradient(180deg, #9C76B8 0%, rgba(156, 118, 184, 0) 100%);
+}
+
+.credit2{
+    padding-left: 325px;
+    padding-top: 20px;
+    font-family: Space Grotesk;
+    font-weight: 500;
+    size: 20px;
+    line-height: 25.52px;
+    color: white;
+}

@@ -1,0 +1,39 @@
+.advertise{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.adNum{
+    font-family: Space Grotesk;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45.94px;
+    color: white;
+}
+
+.adName{
+    font-family: Space Grotesk;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15.31px;
+    color: white;
+}
+
+.content {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#discover {
+    width: 199px;
+    height: 40px;
+    top: 433px;
+    left: 60px;
+    padding: 10px, 48px, 10px, 47px;
+    border-radius: 5px;
+    background: linear-gradient(85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #C367E6 10.94%, rgba(190, 206, 239, 0) 121.57%);
+
+
+}

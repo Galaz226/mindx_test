@@ -1,0 +1,24 @@
+.sponsor{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 50px;
+}
+
+#coinbase{
+    width: 135.71px;
+    height: 90px;
+}
+#trezor{
+    width: 135.71px;
+    height: 90px;
+}
+
+#exodus{
+    width: 145px;
+    height: 90px;
+}
+
+#bitgo{
+    width: 145px;
+    height: 90px;
+}

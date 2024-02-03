@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Picker</title>
+    <link rel="stylesheet" href="/css/style2.css">
+    <script src="js/js2.js" defer></script>
+</head>
+<body>
+    <div>
+        <div id="colorDisplay">#FFFFFF</div>
+        <input type="color" id="colorPicker" value="#ffffff">
+        <button onclick="generateRandomColor()">Pick Random Color</button>
+        <button onclick="copyToClipboard()">Copy Color</button>
+        <label id="gradientCheckbox">
+            <input type="checkbox" id="gradientToggle"> Gradient
+        </label>
+    </div>
+</body>
+</html>
+
